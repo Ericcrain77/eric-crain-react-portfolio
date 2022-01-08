@@ -1,0 +1,22 @@
+footer {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+footer div i {
+    margin: 2rem;
+}
+
+footer div a {
+    font-size: 40px;
+    color: var(--quaternary-color);
+}
+
+footer div a:hover {
+    font-size: 40px;
+    color: var(--tertiary-color);
+}
