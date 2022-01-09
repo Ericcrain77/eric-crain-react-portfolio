@@ -3,8 +3,10 @@ import './App.css';
 import Header from './components/Header';
 import About from './components/About';
 import Resume from './components/Resume';
-import Footer from './components/Footer';
+import Portfolio from './components/Portfolio';
 import ContactForm from './components/Contact';
+import Footer from './components/Footer';
+
 
 function App() {
   return (
@@ -12,6 +14,7 @@ function App() {
       <Header />
       <About />
       <Resume />
+      <Portfolio />
       <ContactForm />
       <Footer />
     </div>
