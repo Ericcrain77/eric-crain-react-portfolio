@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './App.css';
 import Header from './components/Header';
 import About from './components/About';
@@ -9,13 +9,29 @@ import Footer from './components/Footer';
 
 
 function App() {
+  const [currentCategory, setCurrentCategory] = useState(categories[0]);
+
+  const [contactSelected, setContactSelected] = useState(false);
+
   return (
     <div>
-      <Header />
-      <About />
-      <Resume />
-      <Portfolio />
-      <ContactForm />
+      <Header categories={categories}
+        setCurrentCategory={setCurrentCategory}
+        currentCategory={currentCategory}
+        contactSelected={contactSelected}
+        setContactSelected={setContactSelected} 
+      />
+      <main>
+        {!contactSelected ? (
+          <>
+            <About currentCategory={currentCategory} />
+            <Resume />
+            <Portfolio />
+          </>
+        ) : (
+            <ContactForm />
+          )}
+      </main>
       <Footer />
     </div>
   );
