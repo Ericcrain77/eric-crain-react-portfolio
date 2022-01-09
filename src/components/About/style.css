@@ -9,18 +9,29 @@
 .about-section h2 {
     font-size: 2.2vw;
     text-align: center;
-    margin: 40px 0 0 0;
+    margin: 0 0 40px 0;
     color: var(--quinary-color);
+    visibility: visible;
 }
 
 .about-section p {
     font-size: 1.2vw;
     text-align: center;
-    margin: 60px;
+    margin: 40px;
     color: var(--quinary-color);
 }
 
-.about-section img {
+.carousel {
+    width: 15%;
+    align-self: center;
+    margin: 2rem;
     border-radius: 50%;
-    
+}
+
+.carousel p {
+    display: none;
+}
+
+.thumbs-wrapper {
+    display: none;
 }
