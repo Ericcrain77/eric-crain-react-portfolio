@@ -12,7 +12,7 @@ function Navigation() {
                   <a href='#skills'>Developer Skills</a>
                 </li>
                 <li>
-                  <a href="#projects">Projects</a>
+                  <a href="#portfolio">Portfolio</a>
                 </li>
                 <li>
                   <a href="#contact">Contact Me</a>
