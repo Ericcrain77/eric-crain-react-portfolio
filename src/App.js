@@ -9,28 +9,30 @@ import Footer from './components/Footer';
 
 
 function App() {
-  const [currentCategory, setCurrentCategory] = useState(categories[0]);
+  const [currentPage, setCurrentPage] = useState("About");
 
-  const [contactSelected, setContactSelected] = useState(false);
+  const renderPage = () => {
+    switch (currentPage) {
+      case "About":
+        return <About />;
+      case "Portfolio":
+        return <Portfolio />;
+      case "ContactForm":
+        return <ContactForm />;
+      case "Resume": 
+        return <Resume />;
+      default:
+        return <About />;
+    }
+  };
 
   return (
-    <div>
-      <Header categories={categories}
-        setCurrentCategory={setCurrentCategory}
-        currentCategory={currentCategory}
-        contactSelected={contactSelected}
-        setContactSelected={setContactSelected} 
+    <div className="App">
+      <Header currentPage={currentPage}
+        setCurrentPage={setCurrentPage}
       />
       <main>
-        {!contactSelected ? (
-          <>
-            <About currentCategory={currentCategory} />
-            <Resume />
-            <Portfolio />
-          </>
-        ) : (
-            <ContactForm />
-          )}
+        {renderPage(currentPage)}
       </main>
       <Footer />
     </div>
