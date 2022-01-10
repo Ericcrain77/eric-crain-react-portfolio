@@ -3,6 +3,7 @@ import './style.css';
 import logo192 from '../../assets/images/logo192.png';
 
 function Header(props) {
+    
     return (
         <header>
             <div className='header-container'>
@@ -14,16 +15,16 @@ function Header(props) {
             <nav>
                 <ul>
                     <li>
-                    <a href="#about" onClick={() => props.setCurrentPage("About")}>About</a>
+                        <a href="#about" onClick={() => props.setCurrentPage("About")}>About</a>
                     </li>
                     <li>
-                    <a href='#skills' onClick={() => props.setCurrentPage("Resume")}>Developer Skills</a>
+                        <a href='#skills' onClick={() => props.setCurrentPage("Resume")}>Developer Skills</a>
                     </li>
                     <li>
-                    <a href="#portfolio" onClick={() => props.setCurrentPage("Portfolio")}>Portfolio</a>
+                        <a href="#portfolio" onClick={() => props.setCurrentPage("Portfolio")}>Portfolio</a>
                     </li>
                     <li>
-                    <a href="#contact" onClick={() => props.setCurrentPage("ContactForm")}>Contact Me</a>
+                        <a href="#contact" onClick={() => props.setCurrentPage("ContactForm")}>Contact Me</a>
                     </li>
                 </ul>
             </nav>
