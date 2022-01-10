@@ -1,6 +1,6 @@
 # Professional React Portfolio
 
-Deployed Application: http://Ericcrain77.github.io/professional-portfolio
+Deployed Application: http://ericcrain77.github.io/eric-crain-react-portfolio
 
 GitHub Repository: https://github.com/Ericcrain77/table-top-warriors
 
