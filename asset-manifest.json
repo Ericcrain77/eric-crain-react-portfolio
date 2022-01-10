@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/professional-portfolio/static/css/main.4715febe.css",
-    "main.js": "/professional-portfolio/static/js/main.43d4464a.js",
-    "static/js/787.40c7fcf7.chunk.js": "/professional-portfolio/static/js/787.40c7fcf7.chunk.js",
-    "static/media/Run-Buddy.png": "/professional-portfolio/static/media/Run-Buddy.bf799454ff5556c98c24.png",
-    "static/media/Sneak-Peek.png": "/professional-portfolio/static/media/Sneak-Peek.61b8d8a35439d47ebb6b.png",
-    "static/media/Portfolio.png": "/professional-portfolio/static/media/Portfolio.208f3fa920aee39442f2.png",
-    "static/media/About-Me.png": "/professional-portfolio/static/media/About-Me.8d54865d9268136bdf0a.png",
-    "static/media/Coding-Quiz.png": "/professional-portfolio/static/media/Coding-Quiz.9e31200aac387d8e2d91.png",
-    "static/media/EricCat.jpg": "/professional-portfolio/static/media/EricCat.86aa227d63f4fa52ae20.jpg",
-    "static/media/Weather-Dashboard.png": "/professional-portfolio/static/media/Weather-Dashboard.33cbb38ad196e1403db4.png",
-    "static/media/EricMando.jpg": "/professional-portfolio/static/media/EricMando.6d298a9d700d0774ee9c.jpg",
-    "static/media/EricCat2.jpg": "/professional-portfolio/static/media/EricCat2.efb904cfd47b4a73146c.jpg",
-    "static/media/Budget-Tracker-Homepage.png": "/professional-portfolio/static/media/Budget-Tracker-Homepage.58bb60958106216900a6.png",
-    "static/media/Dev-Skills.png": "/professional-portfolio/static/media/Dev-Skills.4e260bcb21acae7298a3.png",
-    "static/media/Ericbw.jpg": "/professional-portfolio/static/media/Ericbw.25d2a35fe362f5d4d29d.jpg",
-    "static/media/Table-Top-Warriors-Logo.png": "/professional-portfolio/static/media/Table-Top-Warriors-Logo.8cffe38f929117bfc1f4.png",
-    "static/media/Contact-Form.png": "/professional-portfolio/static/media/Contact-Form.537a1da71cc365d25baf.png",
-    "static/media/logo192.png": "/professional-portfolio/static/media/logo192.a9a499ad4983a5192378.png",
-    "index.html": "/professional-portfolio/index.html",
-    "main.4715febe.css.map": "/professional-portfolio/static/css/main.4715febe.css.map",
-    "main.43d4464a.js.map": "/professional-portfolio/static/js/main.43d4464a.js.map",
-    "787.40c7fcf7.chunk.js.map": "/professional-portfolio/static/js/787.40c7fcf7.chunk.js.map"
+    "main.css": "/eric-crain-react-portfolio/static/css/main.4715febe.css",
+    "main.js": "/eric-crain-react-portfolio/static/js/main.5ad8046a.js",
+    "static/js/787.40c7fcf7.chunk.js": "/eric-crain-react-portfolio/static/js/787.40c7fcf7.chunk.js",
+    "static/media/Run-Buddy.png": "/eric-crain-react-portfolio/static/media/Run-Buddy.bf799454ff5556c98c24.png",
+    "static/media/Sneak-Peek.png": "/eric-crain-react-portfolio/static/media/Sneak-Peek.61b8d8a35439d47ebb6b.png",
+    "static/media/Portfolio.png": "/eric-crain-react-portfolio/static/media/Portfolio.208f3fa920aee39442f2.png",
+    "static/media/About-Me.png": "/eric-crain-react-portfolio/static/media/About-Me.8d54865d9268136bdf0a.png",
+    "static/media/Coding-Quiz.png": "/eric-crain-react-portfolio/static/media/Coding-Quiz.9e31200aac387d8e2d91.png",
+    "static/media/EricCat.jpg": "/eric-crain-react-portfolio/static/media/EricCat.86aa227d63f4fa52ae20.jpg",
+    "static/media/Weather-Dashboard.png": "/eric-crain-react-portfolio/static/media/Weather-Dashboard.33cbb38ad196e1403db4.png",
+    "static/media/EricMando.jpg": "/eric-crain-react-portfolio/static/media/EricMando.6d298a9d700d0774ee9c.jpg",
+    "static/media/EricCat2.jpg": "/eric-crain-react-portfolio/static/media/EricCat2.efb904cfd47b4a73146c.jpg",
+    "static/media/Budget-Tracker-Homepage.png": "/eric-crain-react-portfolio/static/media/Budget-Tracker-Homepage.58bb60958106216900a6.png",
+    "static/media/Dev-Skills.png": "/eric-crain-react-portfolio/static/media/Dev-Skills.4e260bcb21acae7298a3.png",
+    "static/media/Ericbw.jpg": "/eric-crain-react-portfolio/static/media/Ericbw.25d2a35fe362f5d4d29d.jpg",
+    "static/media/Table-Top-Warriors-Logo.png": "/eric-crain-react-portfolio/static/media/Table-Top-Warriors-Logo.8cffe38f929117bfc1f4.png",
+    "static/media/Contact-Form.png": "/eric-crain-react-portfolio/static/media/Contact-Form.537a1da71cc365d25baf.png",
+    "static/media/logo192.png": "/eric-crain-react-portfolio/static/media/logo192.a9a499ad4983a5192378.png",
+    "index.html": "/eric-crain-react-portfolio/index.html",
+    "main.4715febe.css.map": "/eric-crain-react-portfolio/static/css/main.4715febe.css.map",
+    "main.5ad8046a.js.map": "/eric-crain-react-portfolio/static/js/main.5ad8046a.js.map",
+    "787.40c7fcf7.chunk.js.map": "/eric-crain-react-portfolio/static/js/787.40c7fcf7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4715febe.css",
-    "static/js/main.43d4464a.js"
+    "static/js/main.5ad8046a.js"
   ]
 }
