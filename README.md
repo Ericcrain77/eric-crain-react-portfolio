@@ -2,7 +2,7 @@
 
 Deployed Application: http://ericcrain77.github.io/eric-crain-react-portfolio
 
-GitHub Repository: https://github.com/Ericcrain77/table-top-warriors
+GitHub Repository: https://github.com/Ericcrain77/eric-crain-react-portfolio
 
 ## Table of Contents
 * [Description](#description)
