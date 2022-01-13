@@ -12,12 +12,13 @@ header {
     justify-content: flex-start;
     align-items: center;
     padding: 5px 0 5px 0;
+    max-width: 450px;
 }
   
 header h1 {
     color: var(--tertiary-color);
     padding: 5px 15px 5px 30px;
-    font-size: 2.5vw;
+    font-size: 2.3vw;
     display: flex;
 }
   
@@ -42,7 +43,7 @@ header nav ul li a {
     text-decoration: none;
     margin: 25px;
     padding: 8px;
-    font-size: 1.5vw;
+    font-size: 1.4vw;
     font-weight: bolder;
 }
   
@@ -53,3 +54,13 @@ header nav ul li a:hover {
     box-shadow: 0 0 25px var(--senary-color);
     font-weight: bolder;
 }
+
+@media screen and (min-width: 1920px) {
+    header h1 {
+      font-size: 35px;
+    }
+
+    header nav ul li a {
+        font-size: 25px;
+    }
+  }
