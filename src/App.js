@@ -7,7 +7,6 @@ import Portfolio from './components/Portfolio';
 import ContactForm from './components/Contact';
 import Footer from './components/Footer';
 
-
 function App() {
   const [currentPage, setCurrentPage] = useState("About");
 
