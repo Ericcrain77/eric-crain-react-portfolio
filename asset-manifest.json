@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eric-crain-react-portfolio/static/css/main.f16ab373.css",
-    "main.js": "/eric-crain-react-portfolio/static/js/main.15b63ade.js",
+    "main.js": "/eric-crain-react-portfolio/static/js/main.a4711e23.js",
     "static/js/787.40c7fcf7.chunk.js": "/eric-crain-react-portfolio/static/js/787.40c7fcf7.chunk.js",
     "static/media/Run-Buddy.png": "/eric-crain-react-portfolio/static/media/Run-Buddy.bf799454ff5556c98c24.png",
     "static/media/Sneak-Peek.png": "/eric-crain-react-portfolio/static/media/Sneak-Peek.61b8d8a35439d47ebb6b.png",
@@ -14,17 +14,18 @@
     "static/media/EricCat2.jpg": "/eric-crain-react-portfolio/static/media/EricCat2.efb904cfd47b4a73146c.jpg",
     "static/media/Budget-Tracker-Homepage.png": "/eric-crain-react-portfolio/static/media/Budget-Tracker-Homepage.58bb60958106216900a6.png",
     "static/media/Dev-Skills.png": "/eric-crain-react-portfolio/static/media/Dev-Skills.4e260bcb21acae7298a3.png",
+    "static/media/UrMapp-Logo.png": "/eric-crain-react-portfolio/static/media/UrMapp-Logo.8661b1d037a5bfd9fe9e.png",
     "static/media/Ericbw.jpg": "/eric-crain-react-portfolio/static/media/Ericbw.25d2a35fe362f5d4d29d.jpg",
     "static/media/Table-Top-Warriors-Logo.png": "/eric-crain-react-portfolio/static/media/Table-Top-Warriors-Logo.8cffe38f929117bfc1f4.png",
     "static/media/Contact-Form.png": "/eric-crain-react-portfolio/static/media/Contact-Form.537a1da71cc365d25baf.png",
     "static/media/logo192.png": "/eric-crain-react-portfolio/static/media/logo192.a9a499ad4983a5192378.png",
     "index.html": "/eric-crain-react-portfolio/index.html",
     "main.f16ab373.css.map": "/eric-crain-react-portfolio/static/css/main.f16ab373.css.map",
-    "main.15b63ade.js.map": "/eric-crain-react-portfolio/static/js/main.15b63ade.js.map",
+    "main.a4711e23.js.map": "/eric-crain-react-portfolio/static/js/main.a4711e23.js.map",
     "787.40c7fcf7.chunk.js.map": "/eric-crain-react-portfolio/static/js/787.40c7fcf7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f16ab373.css",
-    "static/js/main.15b63ade.js"
+    "static/js/main.a4711e23.js"
   ]
 }
