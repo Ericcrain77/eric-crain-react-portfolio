@@ -1,6 +1,7 @@
 import React from "react";
 import { Card } from 'react-bootstrap';
 import { FaFilePdf } from 'react-icons/fa';
+import { Document } from 'react-pdf';
 import skills from './skills.js';
 import './style.css';
 
@@ -24,7 +25,9 @@ function Resume() {
             </div>
             <div className='resume'>
                 <h3>Resume</h3>
-                <i><FaFilePdf /></i>
+                <Document
+                    file="https://my.indeed.com/resume/preview/file"
+                />
             </div>
         </section>
         

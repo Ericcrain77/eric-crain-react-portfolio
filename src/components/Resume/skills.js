@@ -37,11 +37,6 @@ const skills = [
         name: "React",
         icon: <FaReact style={{color: '#61DBFB', fontSize: '4rem'}}/>,
         
-    },
-    {
-        name: "Angular",
-        icon: <FaAngular style={{color: '#dd1b16', fontSize: '4rem'}}/>,
-        
     }
 ]
 
