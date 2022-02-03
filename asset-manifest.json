@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/eric-crain-react-portfolio/static/css/main.f16ab373.css",
-    "main.js": "/eric-crain-react-portfolio/static/js/main.a4711e23.js",
+    "main.css": "/eric-crain-react-portfolio/static/css/main.57293773.css",
+    "main.js": "/eric-crain-react-portfolio/static/js/main.3f5cb9dd.js",
     "static/js/787.40c7fcf7.chunk.js": "/eric-crain-react-portfolio/static/js/787.40c7fcf7.chunk.js",
     "static/media/Run-Buddy.png": "/eric-crain-react-portfolio/static/media/Run-Buddy.bf799454ff5556c98c24.png",
     "static/media/Sneak-Peek.png": "/eric-crain-react-portfolio/static/media/Sneak-Peek.61b8d8a35439d47ebb6b.png",
@@ -20,12 +20,12 @@
     "static/media/Contact-Form.png": "/eric-crain-react-portfolio/static/media/Contact-Form.537a1da71cc365d25baf.png",
     "static/media/logo192.png": "/eric-crain-react-portfolio/static/media/logo192.a9a499ad4983a5192378.png",
     "index.html": "/eric-crain-react-portfolio/index.html",
-    "main.f16ab373.css.map": "/eric-crain-react-portfolio/static/css/main.f16ab373.css.map",
-    "main.a4711e23.js.map": "/eric-crain-react-portfolio/static/js/main.a4711e23.js.map",
+    "main.57293773.css.map": "/eric-crain-react-portfolio/static/css/main.57293773.css.map",
+    "main.3f5cb9dd.js.map": "/eric-crain-react-portfolio/static/js/main.3f5cb9dd.js.map",
     "787.40c7fcf7.chunk.js.map": "/eric-crain-react-portfolio/static/js/787.40c7fcf7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f16ab373.css",
-    "static/js/main.a4711e23.js"
+    "static/css/main.57293773.css",
+    "static/js/main.3f5cb9dd.js"
   ]
 }
