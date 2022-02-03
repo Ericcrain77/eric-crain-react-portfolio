@@ -25,9 +25,7 @@ function Resume() {
             </div>
             <div className='resume'>
                 <h3>Resume</h3>
-                <Document
-                    file="https://my.indeed.com/resume/preview/file"
-                />
+                <h4>Coming soon!</h4>
             </div>
         </section>
         

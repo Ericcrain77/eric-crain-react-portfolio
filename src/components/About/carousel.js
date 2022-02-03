@@ -8,13 +8,13 @@ import EricCat2 from '../../assets/images/EricCat2.jpg';
 export default () => (
     <Carousel>
         <div className="photo">
+            <img src={Ericbw} alt="Black and White Eric" />
+        </div>
+        <div className="photo">
             <img src={EricCat} alt="Eric and Catherine" />
         </div>
         <div className="photo">
             <img src={EricMando} alt="Eric and Mando" />
-        </div>
-        <div className="photo">
-            <img src={Ericbw} alt="Black and White Eric" />
         </div>
         <div className="photo">
             <img src={EricCat2} alt="Eric and Catherine 2" />
